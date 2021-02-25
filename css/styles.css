@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  font-size: 100px;
+  font-style: oblique;
+}
+h2{
+  color: green;
+  font-style: italic;
+}
+img{
+  background-color: red;
+  width: 250px;
+  height: 250px;
+}
